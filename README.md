@@ -1,6 +1,6 @@
 # Experiments in C/C++ Programming Language
 
-[![N|Solid](https://codingblocks.com/assets/images/cb/logosc/color_cpp.svg)](https://nodesource.com/products/nsolid) 
+[![N|Solid](http://www.hashin.in/hash/_layout/images/expertise/cpp.png)](https://nodesource.com/products/nsolid) 
 
 ###### Contains implementations of ..
 ###### Created by Ibrar Yunus <iy3@st-andrews.ac.uk>
